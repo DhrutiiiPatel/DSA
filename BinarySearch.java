@@ -3,8 +3,7 @@ public class BinarySearch {
     public static void main(String[] args) {
 
         int[] nums = {1,2,3,4,5};
-        System.out.println(BS(nums, 5));
-        
+        System.out.println(BS(nums, 5));     
     }
 
     public static int BS(int[] num, int num_to_find) {
